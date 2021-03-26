@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE md>
 <html lang="en">
 <head>
 	<title>LIS 351 Website</title>
