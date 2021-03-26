@@ -1,0 +1,320 @@
+
+body {
+  background-color: rgb(196, 1, 47);
+  padding: 5px;
+}
+
+h1 {
+  text-align: center;
+  color: Black;
+  font-family: 'Times New Roman', serif;
+}
+h2 {
+  text-align: center;
+  color: Black;
+  font-family: 'Times New Roman', serif;
+}
+#p {
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  border: 3px solid white;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+#p1 {
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  border: 3px solid white;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+#p2 {
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  border: 3px solid white;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+#p3 {
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  border: 3px solid white;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+#p4 {
+  text-align: center;
+  background-color: rgb(102, 102, 102);
+  border: 3px solid white;
+  padding: 20px;
+  font-family: Verdana, sans-serif;
+}
+button {
+  color: rgb(255, 255, 255);
+  background-color:rgb(51, 51, 51);
+    border: rgb(0, 0, 0);
+    height: 32px;
+    width: 100px;
+    font-size: 16px;
+    border-radius: 15px;
+    text-align: center;
+}
+button:hover {
+  background-color:White;
+    color: rgb(51, 51, 51);
+}
+ol {
+  font-size: 20px;
+}
+nav {
+  color: Black;
+  margin-left: 2vw;
+  margin-Top: 2vw;
+  position: absolute;
+  right: 10px;
+  top: 0px;
+  font-family: Arial, sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(196, 1, 47);
+  padding: 20px;
+  font-family: Arial;
+}
+#main {
+  max-width: 1000px;
+  margin: auto;
+}
+#h2Art{
+  font-size: 50px;
+  word-break: break-all;
+  font-family: 'Brush Script MT', cursive;
+}
+.row{
+  margin: 8px -16px;
+}
+.row,
+.row > .column {
+  padding: 8px;
+}
+.column {
+  float: left;
+  width: 33%;
+}
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.content {
+  background-color: white;
+  padding: 10px;
+}
+@media screen and (max-width: 1200px) {
+  .column {
+    width: 80%;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .column {
+    width: 100%;
+  }
+}
+#dessertBody {
+    background-color:SandyBrown;
+    padding: 5px;
+  }
+#dessert {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert1 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert2 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert3 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert4 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert5 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert6 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#dessert7 {
+        color: BlanchedAlmond;
+        background-color:Chocolate;
+            border: Chocolate;
+            height: 32px;
+            width: 80px;
+            font-size: 16px;
+            border-radius: 8px;
+            position: absolute;
+  outline: none;
+}
+#clock{
+  font-size: 40px;
+  text-align: center;
+}
+#score{
+  font-size: 20px;
+  text-align: center;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
