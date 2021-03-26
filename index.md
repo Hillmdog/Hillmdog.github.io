@@ -31,7 +31,7 @@
 					<li>You get :30 to play. Good Luck!</li>
 				</ol>
 				<nav>
-					<a href="Homepage.html">Home</a> |
+					<a href="index.md">Home</a> |
 					<a href="Art.html">Artworks</a> |
 					<a href="Computers.html">Computers</a> |
 					<a href="League.html">LOL</a> |
